@@ -18,6 +18,7 @@ Algunos de los juegos que he realizado:
 
 * Twitter [@ostjh](https://twitter.com/ostjh)
 * [Linkedin](https://www.linkedin.com/in/jorge-rubiano-a8616319)
+* [dev.to](https://dev.to/jorger)
 
 
 <!--
