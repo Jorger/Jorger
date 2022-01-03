@@ -14,7 +14,7 @@ Algunos de los juegos que he realizado:
 * 🧩 [Zeek The Geek](https://zeek-jorge-rubiano.vercel.app/)
 * 📌 [Hocus Game](https://hocus-taupe.vercel.app/)
 * 😺 [LongCat](https://long-cat.vercel.app/)
-* ◻️ [Cuzzle](https://cuzzle-react.vercel.app/)
+* 🕋 [Cuzzle](https://cuzzle-react.vercel.app/)
 
 ## Mis redes sociales
 
