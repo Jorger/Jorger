@@ -15,6 +15,11 @@ Algunos de los juegos que he realizado:
 * 📌 [Hocus Game](https://hocus-taupe.vercel.app/)
 * 😺 [LongCat](https://long-cat.vercel.app/)
 * 🕋 [Cuzzle](https://cuzzle-react.vercel.app/)
+* 🆙 [This Side UP](https://this-side-up-react.vercel.app/)
+
+Recientemete empecé a aprender [VueJS](https://vuejs.org/), éste esl primer juego desarrollado con esta librería/framework
+
+* 🖼️ [Picross Vue](https://picross-vue.vercel.app/)
 
 ## Mis redes sociales
 
