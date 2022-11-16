@@ -17,7 +17,7 @@ Algunos de los juegos que he realizado:
 * 🕋 [Cuzzle](https://cuzzle-react.vercel.app/)
 * 🆙 [This Side UP](https://this-side-up-react.vercel.app/)
 * 🔲 [Color IT](https://color-it-react.vercel.app/)
-
+* 🔢 [ZHED](https://zhed-react.vercel.app/)
 
 Recientemete empecé a aprender [VueJS](https://vuejs.org/), éste esl primer juego desarrollado con esta librería/framework
 
