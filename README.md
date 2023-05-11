@@ -19,6 +19,7 @@ Algunos de los juegos que he realizado:
 * 🔲 [Color IT](https://color-it-react.vercel.app/)
 * 🔢 [ZHED](https://zhed-react.vercel.app/)
 * 🎳 [Bowling R3F](https://bowling-r3f.vercel.app/)
+* 🎲🎲 [Yatzy React]([url](https://yatzy-react-game.herokuapp.com/))
 
 Recientemete empecé a aprender [VueJS](https://vuejs.org/), éste esl primer juego desarrollado con esta librería/framework
 
