@@ -21,9 +21,11 @@ Algunos de los juegos que he realizado:
 * 🎳 [Bowling R3F](https://bowling-r3f.vercel.app/)
 * 🎲 [Yatzy React](https://yatzy-react-game.herokuapp.com/)
 
-Recientemete empecé a aprender [VueJS](https://vuejs.org/), éste esl primer juego desarrollado con esta librería/framework
+## Cursos.
 
-* 🖼️ [Picross Vue](https://picross-vue.vercel.app/)
+![Imagen_curso_02](https://github.com/Jorger/Jorger/assets/30050/cd662075-165e-46b3-995e-f543711632c6)
+
+["Aprende a desarrollar un juego de Yatzy con ReactJS/NodeJS y Typescript".](https://www.udemy.com/course/aprende-a-desarrollar-un-juego-de-yatzy-con-react/?referralCode=A524789E1703570AF758)
 
 ## Mis redes sociales
 
