@@ -23,9 +23,21 @@ Algunos de los juegos que he realizado:
 
 ## Cursos.
 
+### Aprende a desarrollar un juego de Yatzy con ReactJS/NodeJS y Typescript
+
 ![Imagen_curso_02](https://github.com/Jorger/Jorger/assets/30050/cd662075-165e-46b3-995e-f543711632c6)
 
-["Aprende a desarrollar un juego de Yatzy con ReactJS/NodeJS y Typescript".](https://www.udemy.com/course/aprende-a-desarrollar-un-juego-de-yatzy-con-react/?referralCode=A524789E1703570AF758)
+He preparado el curso ["Aprende a desarrollar un juego de Yatzy con ReactJS/NodeJS y Typescript"](https://www.udemy.com/course/aprende-a-desarrollar-un-juego-de-yatzy-con-react/?referralCode=A524789E1703570AF758). en el cual enseño a desarrollar este juego desde cero.
+
+Este proyecto nació de una inspiradora experiencia en la pasada [JSconf Chile](https://jsconf.cl/), donde tuve la oportunidad de compartir mi conocimiento sobre el desarrollo de juegos con React ([ver conferencia](https://www.youtube.com/watch?v=nReMDgz02qo&t=10553s)). 
+
+### ReactJS Game Dev: Crea el Adictivo Juego Dice Merge
+
+![cover_course_dice_02](https://github.com/Jorger/Jorger/assets/30050/86d4cf69-3f85-4f53-8eaa-6b5ee4ba4c72)
+
+
+
+
 
 ## Mis redes sociales
 
