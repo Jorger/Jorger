@@ -20,6 +20,7 @@ Algunos de los juegos que he realizado:
 * 🔢 [ZHED](https://zhed-react.vercel.app/)
 * 🎳 [Bowling R3F](https://bowling-r3f.vercel.app/)
 * 🎲 [Yatzy React](https://yatzy-react-game.herokuapp.com/)
+* 🎲 [Dice Merge](https://dice-merge-react.vercel.app/)
 
 ## Cursos.
 
