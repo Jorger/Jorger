@@ -36,6 +36,8 @@ Este proyecto nació de una inspiradora experiencia en la pasada [JSconf Chile](
 
 ![cover_course_dice_02](https://github.com/Jorger/Jorger/assets/30050/86d4cf69-3f85-4f53-8eaa-6b5ee4ba4c72)
 
+¿Deseas aprender a desarrollar este juego? te invito al curso [ReactJS Game Dev: Crea el Adictivo Juego Dice Merge](https://www.udemy.com/course/reactjs-game-dev-crea-el-adictivo-juego-dice-merge/?referralCode=1083A2DE8A65C6FD4D68), donde te enseñaré a desarrollar este juego.
+
 
 ## Mis redes sociales
 
