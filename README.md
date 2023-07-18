@@ -21,6 +21,7 @@ Algunos de los juegos que he realizado:
 * 🎳 [Bowling R3F](https://bowling-r3f.vercel.app/)
 * 🎲 [Yatzy React](https://yatzy-react-game.herokuapp.com/)
 * 🎲 [Dice Merge](https://dice-merge-react.vercel.app/)
+* 🔴 [Ball Sort Puzzle](https://ball-sort.vercel.app/)
 
 ## Cursos.
 
