@@ -22,6 +22,7 @@ Algunos de los juegos que he realizado:
 * 🎲 [Yatzy React](https://yatzy-react-game.herokuapp.com/)
 * 🎲 [Dice Merge](https://dice-merge-react.vercel.app/)
 * 🔴 [Ball Sort Puzzle](https://ball-sort.vercel.app/)
+* 🎉 [Tap Party](https://tap-party-jorge-rubiano.vercel.app/)
 
 ## Cursos.
 
