@@ -41,9 +41,15 @@ Este proyecto nació de una inspiradora experiencia en la pasada [JSconf Chile](
 ¿Deseas aprender a desarrollar este juego? te invito al curso [ReactJS Game Dev: Crea el Adictivo Juego Dice Merge](https://www.udemy.com/course/reactjs-game-dev-crea-el-adictivo-juego-dice-merge/?referralCode=1083A2DE8A65C6FD4D68), donde te enseñaré a desarrollar este juego.
 
 
+### 3️⃣ Realtime Ludo Game, usando ReactJS, NodeJS y SocketIO
+
+![caratula_ludo](https://github.com/Jorger/Jorger/assets/30050/8bb47672-5af8-482b-b275-1ec45823a273)
+
+A través del curso [Realtime Ludo Game, usando ReactJS, NodeJS y SocketIO](https://www.udemy.com/course/realtime-ludo-game-usando-reactjs-nodejs-y-socketio), aprenderás a desarrollar al popular juego del ludo, 
+
 ## Mis redes sociales
 
-* Twitter [@ostjh](https://twitter.com/ostjh)
+* X (Twitter) [@ostjh](https://twitter.com/ostjh)
 * [Linkedin](https://www.linkedin.com/in/jorge-rubiano-a8616319)
 * [Dev.to](https://dev.to/jorger)
 * [Medium](https://medium.com/@ostjh)
