@@ -47,7 +47,13 @@ Este proyecto nació de una inspiradora experiencia en la pasada [JSconf Chile](
 
 ![caratula_ludo](https://github.com/Jorger/Jorger/assets/30050/8bb47672-5af8-482b-b275-1ec45823a273)
 
-A través del curso [Realtime Ludo Game, usando ReactJS, NodeJS y SocketIO](https://www.udemy.com/course/realtime-ludo-game-usando-reactjs-nodejs-y-socketio), aprenderás a desarrollar al popular juego del ludo, 
+A través del curso [Realtime Ludo Game, usando ReactJS, NodeJS y SocketIO](https://www.udemy.com/course/realtime-ludo-game-usando-reactjs-nodejs-y-socketio), aprenderás a desarrollar al popular juego del ludo.
+
+### 4️⃣ Ball Sort Puzzle Using ReactJS Step-by-Step
+
+![scree-curso-ball-sort](https://github.com/user-attachments/assets/018560f6-afcd-408c-83fc-f5b9f1866ec6)
+
+Learn how to build a complete logic game from scratch with [Ball Sort Puzzle Using ReactJS Step-by-Step](https://www.udemy.com/course/ball-sort-puzzle-using-reactjs-step-by-step/). This course guides you through every part of the development process — from components and state management to animations and PWA deployment.
 
 ## Mis redes sociales
 
