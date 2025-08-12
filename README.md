@@ -56,6 +56,12 @@ A través del curso [Realtime Ludo Game, usando ReactJS, NodeJS y SocketIO](http
 
 Learn how to build a complete logic game from scratch with [Ball Sort Puzzle Using ReactJS Step-by-Step](https://www.udemy.com/course/ball-sort-puzzle-using-reactjs-step-by-step/). This course guides you through every part of the development process — from components and state management to animations and PWA deployment.
 
+### 5️⃣ Dots & Boxes game step-by-step using React and Rune Platform
+
+![dots_boxes_poster](https://github.com/user-attachments/assets/aabca32a-6f54-4fd8-804e-54685d17d3ad)
+
+Learn to build the classic [Dots & Boxes game in React with multiplayer support using Rune Platform](https://www.udemy.com/course/create-dots-boxes-with-react-powered-by-rune-platform), step-by-step from scratch
+
 ## Mis redes sociales
 
 * X (Twitter) [@ostjh](https://twitter.com/ostjh)
