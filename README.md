@@ -27,6 +27,7 @@ Algunos de los juegos que he realizado:
 * ➡️ [Don't Collide](https://directional-shift.vercel.app/)
 * 🌊 [Untrusted Waters](https://app.rune.ai/dev-ULreHsEw)
 * 📦 [Dots & Boxes](https://app.rune.ai/dev-stDaXIHR)
+* 🐾 [Roni and Kira](https://roni-and-kira.vercel.app/index.html)
 
 ## Cursos.
 
