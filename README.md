@@ -28,6 +28,7 @@ Algunos de los juegos que he realizado:
 * 🌊 [Untrusted Waters](https://app.rune.ai/dev-ULreHsEw)
 * 📦 [Dots & Boxes](https://app.rune.ai/dev-stDaXIHR)
 * 🐾 [Roni and Kira](https://roni-and-kira.vercel.app/index.html)
+* 🫘 [Mancala](https://app.rune.ai/dev-9RKiCQ2J)
 
 ## Cursos.
 
