@@ -29,7 +29,7 @@ Algunos de los juegos que he realizado:
 * 📦 [Dots & Boxes](https://app.rune.ai/dev-stDaXIHR)
 * 🐾 [Roni and Kira](https://roni-and-kira.vercel.app/index.html)
 * 🫘 [Mancala](https://app.rune.ai/dev-9RKiCQ2J)
-* 🛠️ [Hammer Hit](https://app.rune.ai/dev-i4rCeQGZ)
+* 🛠️ [Hammer Hit](https://app.rune.ai/dev-ZQevTEPU)
 
 ## Cursos.
 
