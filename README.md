@@ -30,6 +30,7 @@ Algunos de los juegos que he realizado:
 * 🐾 [Roni and Kira](https://roni-and-kira.vercel.app/index.html)
 * 🫘 [Mancala](https://app.rune.ai/dev-9RKiCQ2J)
 * 🛠️ [Hammer Hit](https://app.rune.ai/dev-ZQevTEPU)
+* 🎨 [Color Wars](https://app.rune.ai/dev-D39mzfOz)
 
 ## Cursos.
 
