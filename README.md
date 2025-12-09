@@ -32,6 +32,7 @@ Algunos de los juegos que he realizado:
 * 🛠️ [Hammer Hit](https://app.rune.ai/dev-ZQevTEPU)
 * 🎨 [Color Wars](https://app.rune.ai/dev-D39mzfOz)
 * 🌀 [Reversi (Othello)](https://app.rune.ai/dev-q1duadvy)
+* 🫧 [Pop It](https://app.rune.ai/dev-HBg48cVZ)
 
 ## Cursos.
 
