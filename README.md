@@ -33,6 +33,7 @@ Algunos de los juegos que he realizado:
 * 🎨 [Color Wars](https://app.rune.ai/dev-D39mzfOz)
 * 🌀 [Reversi (Othello)](https://app.rune.ai/dev-q1duadvy)
 * 🫧 [Pop It](https://app.rune.ai/dev-HBg48cVZ)
+* 🎲 [Backgammon](https://app.rune.ai/dev-RfHPrYos)
 
 ## Cursos.
 
